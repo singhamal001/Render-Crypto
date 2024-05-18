@@ -1,0 +1,5 @@
+pandas
+numpy
+pandas_ta
+ccxt
+scikit-learn
