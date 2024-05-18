@@ -3,7 +3,7 @@ services:
   name: Crypto-Next-Candle-Classification
   env: python
   buildCommand: "pip install-r requirements.txt"
-  startCommand: "python app.py"
+  startCommand: "python flask_app.py"
   envVars:
   - key: FLASK_ENV
     value: production
